@@ -1,1 +1,1 @@
-print("Hola Mundo")
+print("Hola Itec 2026")
